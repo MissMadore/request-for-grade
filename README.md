@@ -2,7 +2,7 @@
 summary: 'Write up the reasons why your final project demonstrates everything learned this term.'
 time: '20 minutes'
 deliverables: '3–5 sentences'
-submit: 'https://algonquin.instructure.com/courses/575985/assignments/5018507'
+submit: 'https://algonquin.instructure.com/courses/846474/assignments/7453837'
 ---
 
 # Request for grade
@@ -13,7 +13,7 @@ Since the goal of this project is to prove to me that you can do everything lear
 
 The written explanation should be a list of things we learned this term that you applied to your website. **Most importantly how and why your website proves you can do the things we learned this term.** Explain to me **why** you deserve the grade you chose for yourself.
 
-- Give yourself a grade for the project: F, C, B, A, A+<br>
+- Give yourself a grade for the project: F, C, B, A, A+
 - Write an explanation as to why the website shows you’ve learned and can apply everything from the term.
 - Be honest with yourself and with me (I’ll notice if you’re not)
 
@@ -23,4 +23,4 @@ The written explanation should be a list of things we learned this term that you
 
 ## Hand in
 
-Submit your paragraph to the final project Canvas assignment. There’s a textfield you can paste into.
+Submit your paragraph to the final project Canvas assignment. There’s a text field you can paste into.
