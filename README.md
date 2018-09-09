@@ -2,7 +2,7 @@
 summary: 'Write up the reasons why your final project demonstrates everything learned this term.'
 time: '20 minutes'
 deliverables: '3–5 sentences'
-submit: 'https://algonquin.instructure.com/courses/846474/assignments/7453837'
+submit: 'https://brightspace.algonquincollege.com/'
 ---
 
 # Request for grade
